@@ -242,10 +242,11 @@ img { max-width: 100%; display: block; }
 .hero-title .gold-glow {
   color: var(--white);
   text-shadow:
-    0 0 80px rgba(201,168,76,0.70),
-    0 0 160px rgba(201,168,76,0.45),
-    0 0 280px rgba(201,168,76,0.25),
-    0 0 480px rgba(201,168,76,0.12);
+    0 0 80px rgba(201,168,76,0.80),
+    0 0 240px rgba(201,168,76,0.65),
+    0 0 480px rgba(201,168,76,0.50),
+    0 0 800px rgba(201,168,76,0.35),
+    0 0 1200px rgba(201,168,76,0.20);
 }
 
 .hero-title .gold {
