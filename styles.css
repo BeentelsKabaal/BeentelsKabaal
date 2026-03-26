@@ -238,13 +238,23 @@ img { max-width: 100%; display: block; }
 }
 
 .hero-title span { display: block; }
+
+.hero-title .gold-glow {
+  color: var(--white);
+  text-shadow:
+    0 0 80px rgba(201,168,76,0.70),
+    0 0 160px rgba(201,168,76,0.45),
+    0 0 280px rgba(201,168,76,0.25),
+    0 0 480px rgba(201,168,76,0.12);
+}
+
 .hero-title .gold {
   color: var(--gold);
   text-shadow:
-    0 0 60px rgba(201,168,76,0.65),
-    0 0 120px rgba(201,168,76,0.40),
-    0 0 220px rgba(201,168,76,0.22),
-    0 0 360px rgba(201,168,76,0.10);
+    0 0 80px rgba(201,168,76,0.70),
+    0 0 160px rgba(201,168,76,0.45),
+    0 0 280px rgba(201,168,76,0.25),
+    0 0 480px rgba(201,168,76,0.12);
 }
 
 .hero-desc {
