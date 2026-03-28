@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "id": "koningsdag-2026",
-      "titel": "Koningsdagconcert",
-      "datum": "2026-04-27",
-      "tijdstip": "13:00 – 17:00 uur",
-      "locatie": "Marktplein, Bentelo",
-      "beschrijving": "Gratis openluchtconcert op het marktplein van Bentelo. Meezingen toegestaan — en zelfs aangemoedigd.",
-      "label": "Bijna vol",
-      "hoofd": true
+      "id": "paasparty",
+      "titel": "Paasparty",
+      "datum": "2026-04-05",
+      "tijdstip": "19:00 – 20:00 uur",
+      "locatie": "Feestterrein Paasparty, Bentelo",
+      "beschrijving": "",
+      "label": "",
+      "hoofd": false
     },
     {
       "id": "voorjaar-2026",
