@@ -5,8 +5,8 @@ backend:
 media_library:
   name: cloudinary
   config:
-    cloud_name: dbrzjelnu
-    api_key: 292635717597455
+    cloud_name: digvsmzrc
+    api_key: 466639237722635
 
 locale: nl
 
