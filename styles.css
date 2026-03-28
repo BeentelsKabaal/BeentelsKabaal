@@ -311,7 +311,7 @@ img { max-width: 100%; display: block; }
   position: absolute;
   font-size: clamp(2rem, 5vw, 4rem);
   color: rgba(201,168,76,1);
-  opacity: 1;
+  opacity: 0.65;
   text-shadow: 0 0 20px rgba(201,168,76,0.3);
 }
 
