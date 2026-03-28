@@ -312,14 +312,20 @@ img { max-width: 100%; display: block; }
   font-size: clamp(2rem, 5vw, 4rem);
   color: rgba(201,168,76,1);
   opacity: 0.4;
+  animation: fadeNote 4s ease-in-out infinite;
   text-shadow: 0 0 20px rgba(201,168,76,0.3);
 }
 
 .hero-notes span:nth-child(1) { top: 20%; left: 8%; animation-delay: 0s; }
-.hero-notes span:nth-child(2) { top: 35%; right: 10%; animation-delay: 1.2s; }
-.hero-notes span:nth-child(3) { top: 65%; left: 15%; animation-delay: 2.4s; }
-.hero-notes span:nth-child(4) { top: 55%; right: 18%; animation-delay: 3.6s; }
-.hero-notes span:nth-child(5) { top: 80%; left: 40%; animation-delay: 4.8s; }
+.hero-notes span:nth-child(2) { top: 35%; right: 10%; animation-delay: 0.8s; }
+.hero-notes span:nth-child(3) { top: 65%; left: 15%; animation-delay: 1.6s; }
+.hero-notes span:nth-child(4) { top: 55%; right: 18%; animation-delay: 2.4s; }
+.hero-notes span:nth-child(5) { top: 80%; left: 40%; animation-delay: 3.2s; }
+
+@keyframes fadeNote {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.75; }
+}
 
 
 /* ============================================
