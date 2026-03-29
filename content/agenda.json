@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "id": "paasparty",
-      "titel": "Paasparty",
+      "id": "Paasparty",
+      "titel": "Paasparty Bentelo",
       "datum": "2026-04-05",
       "tijdstip": "19:00 – 20:00 uur",
       "locatie": "Feestterrein Paasparty, Bentelo",
@@ -11,7 +11,7 @@
       "hoofd": false
     },
     {
-      "id": "Hoffmeier A-Delden",
+      "id": "Tuigpaarden show De Hoffmeier",
       "titel": "Manege De Hoffmeier",
       "datum": "2026-04-11",
       "tijdstip": "Vanaf 19.00 uur",
@@ -21,32 +21,32 @@
       "hoofd": false
     },
     {
-      "id": "zomerfestival-2026",
-      "titel": "Zomerfestival Twente",
-      "datum": "2026-07-05",
-      "tijdstip": "Zaterdag 15:00 – 23:00 uur",
-      "locatie": "Erve 't Oude Erf, buitenlocatie",
-      "beschrijving": "Twee dagen muziek, bier en gezelligheid op een prachtige boerenerflocatie in het Twentse landschap.",
+      "id": "Hollandmarkt (DE)",
+      "titel": "Hollandmarkt (DE)",
+      "datum": "2026-05-10",
+      "tijdstip": "Hele dag. ",
+      "locatie": "Holkand markt Bergkamen (DE)",
+      "beschrijving": "",
       "label": "",
       "hoofd": false
     },
     {
-      "id": "benefiet-2026",
-      "titel": "Benefietconcert voor Voedselbank",
-      "datum": "2026-09-13",
-      "tijdstip": "19:30 – 21:30 uur",
-      "locatie": "Dorpskerk Goor",
-      "beschrijving": "Muziek voor een goed doel. Toegang op donatie — elke euro gaat naar de plaatselijke voedselbank.",
+      "id": "Wandelvierdaagse",
+      "titel": "Wandelvierdaagse Delden",
+      "datum": "2026-06-12",
+      "tijdstip": "19:00 – 21:00 uur",
+      "locatie": "Centrum van Delden",
+      "beschrijving": "Intocht wandelvierdaagse Delden",
       "label": "",
       "hoofd": false
     },
     {
-      "id": "sinterklaas-2026",
-      "titel": "Sinterklaascorso",
-      "datum": "2026-12-07",
-      "tijdstip": "14:00 – 17:00 uur",
-      "locatie": "Diverse locaties, Bentelo",
-      "beschrijving": "Jaarlijkse optocht door het centrum van Bentelo. Warme chocolademelk en speculaas gegarandeerd.",
+      "id": "Dweildag",
+      "titel": "De Bos Dweildag (optie)",
+      "datum": "2026-09-12",
+      "tijdstip": "Vanaf 10:00 uur",
+      "locatie": "Centrum van Zutphen",
+      "beschrijving": "",
       "label": "",
       "hoofd": false
     }
