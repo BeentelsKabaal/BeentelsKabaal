@@ -7,7 +7,60 @@
       "locatie": "De gezichten achter succes.",
       "beschrijving": "Zo ziet succes eruit.",
       "omslagfoto": "/images/optreden-koningsdag.svg",
-      "fotos": []
+      "fotos": [
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784535/IMG_0343_r1aufs.jpg",
+          "bijschrift": "Else (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784532/IMG_0323_blnps7.jpg",
+          "bijschrift": "Wilhelmien (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784532/IMG_0340_wowyou.jpg",
+          "bijschrift": "Ans (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784531/IMG_0336_vfuwqm.jpg",
+          "bijschrift": "Renate (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784528/IMG_0326_arthak.jpg",
+          "bijschrift": "Bernhard-Jan (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784528/IMG_0338_tbxmix.jpg",
+          "bijschrift": "Jolanda (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784526/IMG_0335_riugjh.jpg",
+          "bijschrift": "Henk (schuiftrombone)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784520/IMG_0322_f7gqcb.jpg",
+          "bijschrift": "Annie (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784520/IMG_0333_zffwns.jpg",
+          "bijschrift": "Hans (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784519/IMG_0331_mo6g8k.jpg",
+          "bijschrift": "Harrie (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784512/IMG_0332_dwftcu.jpg",
+          "bijschrift": "Henk (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784511/IMG_0330_zfqlyl.jpg",
+          "bijschrift": "Mark (Sousafoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784503/IMG_0321_lzixzj.jpg",
+          "bijschrift": "Andra (Saxofoon)"
+        }
+      ]
     },
     {
       "id": "voorjaar-2025",
@@ -53,6 +106,7 @@
       "beschrijving": "Een sfeervolle kerstavond vol warme muziek in de historische Dorpskerk van Bentelo.",
       "omslagfoto": "/images/optreden-kerstconcert.svg",
       "fotos": []
-    }
+    },
+    {}
   ]
 }
