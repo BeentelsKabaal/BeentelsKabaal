@@ -59,6 +59,18 @@
         {
           "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784503/IMG_0321_lzixzj.jpg",
           "bijschrift": "Andra (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858111/ruud_yh3jhj.jpg",
+          "bijschrift": "Ruud (Schuiftrombone)"
+        },
+        {
+          "bijschrift": "Arjan (Trompet)",
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857599/arjen_delden_li120r.jpg"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857599/arjan_yxh1q3.jpg",
+          "bijschrift": "Arjan (Schuiftrombone)"
         }
       ]
     },
@@ -78,33 +90,6 @@
       "locatie": "Buitenpodium Erve 't Oude Erf, Twente",
       "beschrijving": "Twee dagen muziek, bier en gezelligheid op een prachtige boerenerflocatie in het Twentse landschap.",
       "omslagfoto": "/images/optreden-zomerfestival.svg",
-      "fotos": []
-    },
-    {
-      "id": "benefiet-2025",
-      "titel": "Benefietconcert 2025",
-      "datum": "2025-09-13",
-      "locatie": "Dorpskerk Goor — voor de Voedselbank",
-      "beschrijving": "Muziek voor een goed doel. Toegang op donatie — elke euro gaat naar de plaatselijke voedselbank.",
-      "omslagfoto": "/images/optreden-benefiet.svg",
-      "fotos": []
-    },
-    {
-      "id": "sinterklaas-2025",
-      "titel": "Sinterklaascorso 2025",
-      "datum": "2025-12-07",
-      "locatie": "Jaarlijkse optocht door de dorpskern Bentelo",
-      "beschrijving": "Jaarlijkse optocht door het centrum van Bentelo. Warme chocolademelk en speculaas gegarandeerd.",
-      "omslagfoto": "/images/optreden-sinterklaas.svg",
-      "fotos": []
-    },
-    {
-      "id": "kerstconcert-2024",
-      "titel": "Kerstconcert 2024",
-      "datum": "2024-12-20",
-      "locatie": "Sfeervolle avond in de Dorpskerk van Bentelo",
-      "beschrijving": "Een sfeervolle kerstavond vol warme muziek in de historische Dorpskerk van Bentelo.",
-      "omslagfoto": "/images/optreden-kerstconcert.svg",
       "fotos": []
     }
   ]
