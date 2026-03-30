@@ -206,18 +206,14 @@
         return;
       }
 
-      // Wijd-patroon: elke 5e foto is breed, elke 7e is hoog
       photoGrid.innerHTML = fotos.map((foto, index) => {
         const src = foto.afbeelding || '';
         const caption = foto.bijschrift || '';
         const captionHtml = caption
           ? `<span class="photo-caption">${caption}</span>`
           : '';
-        let extraClass = '';
-        if ((index + 1) % 5 === 0) extraClass = 'wide';
-        else if ((index + 1) % 7 === 0) extraClass = 'tall';
         return `
-          <div class="photo-cell ${extraClass}" data-index="${index}" role="button" tabindex="0" aria-label="Foto ${index + 1} openen">
+          <div class="photo-cell" data-index="${index}" role="button" tabindex="0" aria-label="Foto ${index + 1} openen">
             <img src="${src}" alt="${caption || evenement.titel + ' foto ' + (index + 1)}" loading="lazy" />
             ${captionHtml}
           </div>`;
