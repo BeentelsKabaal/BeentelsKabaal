@@ -284,9 +284,37 @@ document.addEventListener('DOMContentLoaded', () => {
     } catch (e) { /* placeholder blijft zichtbaar */ }
   }
 
+  // ─── Repertoire laden uit JSON ───────────────────────────────────────
+  async function laadRepertoire() {
+    const container = document.getElementById('repertoireGrid');
+    if (!container) return;
+    try {
+      const res = await fetch('/content/repertoire.json');
+      const data = await res.json();
+      const sets = data.sets || [];
+      const los  = data.los  || [];
+      container.innerHTML = `
+        <div class="repertoire-block">
+          <h4>Nummers</h4>
+          <ol class="repertoire-list">
+            ${sets.map(s => `<li>${s}</li>`).join('')}
+          </ol>
+        </div>
+        <div class="repertoire-block">
+          <h4>Losse nummers</h4>
+          <ul class="repertoire-los">
+            ${los.map(n => `<li>${n}</li>`).join('')}
+          </ul>
+        </div>`;
+    } catch (e) {
+      container.innerHTML = '<p class="loading-tekst">Repertoire kon niet worden geladen.</p>';
+    }
+  }
+
   laadAgenda();
   laadEvenementen();
   laadOverOns();
   laadQuotes();
+  laadRepertoire();
 
 });

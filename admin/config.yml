@@ -123,6 +123,31 @@ collections:
                     widget: string
                     required: false
 
+  - name: repertoire
+    label: Repertoire
+    files:
+      - name: repertoire
+        label: Repertoire
+        file: content/repertoire.json
+        format: json
+        fields:
+          - name: sets
+            label: Nummers (sets)
+            widget: list
+            hint: "Elk item is een set van nummers, bijv: Slavenkoor / Feestmedley / Laat de zon"
+            field:
+              name: set
+              label: Set
+              widget: string
+          - name: los
+            label: Losse nummers
+            widget: list
+            hint: "Losse nummers die apart worden gespeeld"
+            field:
+              name: nummer
+              label: Nummer
+              widget: string
+
   - name: quotes
     label: Citaten slideshow
     files:
