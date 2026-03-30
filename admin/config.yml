@@ -7,7 +7,7 @@ media_library:
   config:
     cloud_name: digvsmzrc
     api_key: 466639237722635
-    username: kabaal@live.nl
+    upload_preset: beentels_uploads
 
 locale: nl
 
