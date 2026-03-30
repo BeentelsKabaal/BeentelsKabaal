@@ -81,7 +81,28 @@
       "locatie": "",
       "beschrijving": "",
       "omslagfoto": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858084/PHOTO-2026-03-29-15-45-09_5_u3ecis.jpg",
-      "fotos": []
+      "fotos": [
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858090/PHOTO-2026-03-29-15-45-09_8_r3v65z.jpg",
+          "bijschrift": "Golden girls"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774726966/BK_groep_2_scm5ff.jpg",
+          "bijschrift": "Hollandmarkt"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858067/PHOTO-2025-03-17-10-11-42_bquwwg.jpg",
+          "bijschrift": "Enthousiast"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858078/PHOTO-2026-03-29-15-45-09_3_tfrlry.jpg",
+          "bijschrift": "Rust"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858098/PHOTO-2026-03-29-15-45-10_3_gp9ins.jpg",
+          "bijschrift": "Bier en worst"
+        }
+      ]
     },
     {
       "id": "bejaard",
@@ -90,7 +111,28 @@
       "locatie": "",
       "beschrijving": "",
       "omslagfoto": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858068/PHOTO-2026-03-28-17-24-01_1_wjodxf.jpg",
-      "fotos": []
+      "fotos": [
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858091/PHOTO-2026-03-29-15-45-10_i3h6in.jpg",
+          "bijschrift": "Ware liefde"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857600/Foto_BK_Zutphen_jpuo3k.jpg",
+          "bijschrift": "De Knarren"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858067/PHOTO-2026-03-28-17-24-01_e1pcsg.jpg",
+          "bijschrift": "Deksels"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857600/PHOTO-2026-03-28-17-24-01_2_ocwjpw.jpg",
+          "bijschrift": "Bloazen"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858105/PHOTO-2026-03-29-15-45-11_jm2sgf.jpg",
+          "bijschrift": "Zoek plaatje"
+        }
+      ]
     }
   ]
 }
