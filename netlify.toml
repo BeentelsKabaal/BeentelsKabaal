@@ -1,6 +1,12 @@
 [build]
   publish = "."
 
+[context.deploy-preview]
+  command = "echo 'skip'"
+
+[context.branch-deploy]
+  command = "echo 'skip'"
+
 [[headers]]
   for = "/*"
   [headers.values]
