@@ -99,6 +99,7 @@ collections:
               - name: datum
                 label: Datum
                 widget: string
+                required: false
                 hint: "Formaat: YYYY-MM-DD"
               - name: locatie
                 label: Locatie
