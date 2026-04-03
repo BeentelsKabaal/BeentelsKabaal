@@ -198,16 +198,67 @@
       letter-spacing: 0.05em;
     }
 
+    /* LES BLOK */
+    .les-blok {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+      background: rgba(201,168,76,0.04);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .les-icon {
+      font-size: 1.1rem;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+      opacity: 0.6;
+    }
+
+    .les-info {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+
+    .les-label {
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gold);
+      opacity: 0.7;
+    }
+
+    .les-tekst {
+      font-size: 0.95rem;
+      color: var(--text-light);
+    }
+
+    /* REPETITIE STARTTIJD */
+    .repetitie-start {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.75rem 1.5rem;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--gold);
+      letter-spacing: 0.02em;
+    }
+
+    /* NUMMERS */
     .programma-nummers {
       list-style: none;
-      padding: 1rem 1.5rem;
+      padding: 0.75rem 1.5rem 1rem;
     }
 
     .programma-nummers li {
       display: flex;
-      align-items: center;
+      align-items: baseline;
       gap: 0.75rem;
-      padding: 0.6rem 0;
+      padding: 0.55rem 0;
       border-bottom: 1px solid rgba(255,255,255,0.05);
       font-size: 1rem;
       color: var(--text-light);
@@ -220,7 +271,7 @@
     .nummer-index {
       font-size: 0.8rem;
       color: var(--gold);
-      opacity: 0.6;
+      opacity: 0.5;
       width: 1.5rem;
       text-align: right;
       flex-shrink: 0;
@@ -345,6 +396,21 @@
 
         programmLijst.innerHTML = items.map(item => {
           const huidig = isHuidig(item.datum);
+
+          const lesBlok = (item.les_tijd || item.les_groepen) ? `
+            <div class="les-blok">
+              <span class="les-icon">🎵</span>
+              <div class="les-info">
+                <span class="les-label">Les</span>
+                <span class="les-tekst">${[item.les_tijd, item.les_groepen].filter(Boolean).join(' — ')}</span>
+              </div>
+            </div>` : '';
+
+          const repetitieStart = item.repetitie_tijd ? `
+            <div class="repetitie-start">
+              ♩ ${item.repetitie_tijd} &nbsp;Gezamenlijke repetitie
+            </div>` : '';
+
           const nummers = (item.nummers || []).map((n, i) =>
             `<li><span class="nummer-index">${i + 1}.</span>${n.titel}</li>`
           ).join('');
@@ -355,6 +421,8 @@
                 <span class="programma-datum">${formatDatum(item.datum)}</span>
                 ${huidig ? '<span class="badge-huidig">Deze week</span>' : ''}
               </div>
+              ${lesBlok}
+              ${repetitieStart}
               <ul class="programma-nummers">
                 ${nummers || '<li><span class="nummer-index">–</span>Geen nummers ingevoerd</li>'}
               </ul>

@@ -2,10 +2,18 @@
   "items": [
     {
       "datum": "2026-04-03",
+      "les_tijd": "19.30 tot 20.20 uur",
+      "les_groepen": "trombones, tenorsaxofoons en de bassen",
+      "repetitie_tijd": "20.30 uur",
       "nummers": [
-        { "titel": "Voorbeeldnummer 1" },
-        { "titel": "Voorbeeldnummer 2" },
-        { "titel": "Voorbeeldnummer 3" }
+        { "titel": "Twents Volkslied" },
+        { "titel": "Verdammt, Ich Lieb dich" },
+        { "titel": "Dan ben ik weer thuis, Stef Ekkel" },
+        { "titel": "Hey Jude" },
+        { "titel": "Sound off Silent" },
+        { "titel": "Blokje 08 Hela Hola / Hallelujah / Rock Me" },
+        { "titel": "Blokje 09 Over en out / Fatman Polka / It's a long way" },
+        { "titel": "Bis bald, auf wiedersehn" }
       ]
     }
   ]
