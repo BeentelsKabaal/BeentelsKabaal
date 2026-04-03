@@ -172,9 +172,9 @@ collections:
                 label: Lestijd (optioneel)
                 widget: string
                 required: false
-                hint: "bijv: 19.30 tot 20.20 uur"
+                default: "19.30 tot 20.20 uur"
               - name: les_groepen
-                label: Lesgroepen (optioneel)
+                label: Lesgroepen
                 widget: string
                 required: false
                 hint: "bijv: trombones, tenorsaxofoons en de bassen"
@@ -182,7 +182,7 @@ collections:
                 label: Start gezamenlijke repetitie (optioneel)
                 widget: string
                 required: false
-                hint: "bijv: 20.30 uur"
+                default: "20.30 uur"
               - name: nummers
                 label: Nummers
                 widget: text
