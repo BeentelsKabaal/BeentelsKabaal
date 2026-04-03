@@ -251,16 +251,17 @@
     /* NUMMERS */
     .programma-nummers {
       list-style: none;
-      padding: 0.75rem 1.5rem 1rem;
+      padding: 0.5rem 0 0.75rem;
     }
 
     .programma-nummers li {
       display: flex;
       align-items: baseline;
       gap: 0.75rem;
-      padding: 0.55rem 0;
+      padding: 0.75rem 1.25rem;
       border-bottom: 1px solid rgba(255,255,255,0.05);
-      font-size: 1rem;
+      font-size: 1.05rem;
+      line-height: 1.4;
       color: var(--text-light);
     }
 
@@ -269,12 +270,24 @@
     }
 
     .nummer-index {
-      font-size: 0.8rem;
+      font-size: 0.85rem;
       color: var(--gold);
       opacity: 0.5;
-      width: 1.5rem;
+      min-width: 1.75rem;
       text-align: right;
       flex-shrink: 0;
+    }
+
+    @media (max-width: 480px) {
+      nav { padding: 0.9rem 1rem; }
+      .nav-user { display: none; }
+      #inhoud { padding: 1.5rem 1rem; }
+      .pagina-titel { font-size: 1.6rem; }
+      .programma-header { padding: 1rem; }
+      .programma-datum { font-size: 1.05rem; }
+      .les-blok { padding: 0.9rem 1rem; }
+      .repetitie-start { padding: 0.65rem 1rem; font-size: 0.9rem; }
+      .programma-nummers li { padding: 0.75rem 1rem; font-size: 1rem; }
     }
 
     .leeg-melding {
@@ -411,8 +424,9 @@
               ♩ ${item.repetitie_tijd} &nbsp;Gezamenlijke repetitie
             </div>` : '';
 
-          const nummers = (item.nummers || []).map((n, i) =>
-            `<li><span class="nummer-index">${i + 1}.</span>${n.titel}</li>`
+          const regels = (item.nummers || '').split('\n').map(r => r.trim()).filter(Boolean);
+          const nummers = regels.map((titel, i) =>
+            `<li><span class="nummer-index">${i + 1}.</span>${titel}</li>`
           ).join('');
 
           return `

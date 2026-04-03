@@ -185,12 +185,8 @@ collections:
                 hint: "bijv: 20.30 uur"
               - name: nummers
                 label: Nummers
-                widget: list
-                hint: "Één regel per nummer of blokje, bijv: Blokje 08 Hela Hola / Hallelujah / Rock Me"
-                field:
-                  name: titel
-                  label: Titel
-                  widget: string
+                widget: text
+                hint: "Plak de lijst hier, één nummer per regel"
 
 
   - name: quotes
