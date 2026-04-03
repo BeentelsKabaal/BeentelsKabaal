@@ -1,62 +1,138 @@
 {
   "items": [
     {
-      "id": "koningsdag-2025",
-      "titel": "Koningsdag 2025",
-      "datum": "2025-04-27",
-      "locatie": "Openluchtconcert op het Marktplein van Bentelo",
-      "beschrijving": "Gratis openluchtconcert op het marktplein van Bentelo ter ere van Koningsdag.",
-      "omslagfoto": "/images/optreden-koningsdag.svg",
+      "id": "Gezichten",
+      "titel": "Het gezicht achter....",
+      "datum": "2026-01-01",
+      "locatie": "De gezichten achter succes.",
+      "beschrijving": "Zo ziet succes eruit.",
+      "omslagfoto": "https://res.cloudinary.com/digvsmzrc/image/upload/v1775037080/gezichten_landschape_l2oo7d.png",
       "fotos": [
         {
-          "afbeelding": "https://res.cloudinary.com/dbrzjelnu/image/upload/v1774532774/Eissink_Fotografie_december_2024-4_rtlxns.jpg"
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784535/IMG_0343_r1aufs.jpg",
+          "bijschrift": "Else (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784532/IMG_0323_blnps7.jpg",
+          "bijschrift": "Wilhelmien (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784532/IMG_0340_wowyou.jpg",
+          "bijschrift": "Ans (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784528/IMG_0326_arthak.jpg",
+          "bijschrift": "Bernhard-Jan (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784531/IMG_0336_vfuwqm.jpg",
+          "bijschrift": "Renate (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784528/IMG_0338_tbxmix.jpg",
+          "bijschrift": "Jolanda (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784526/IMG_0335_riugjh.jpg",
+          "bijschrift": "Henk (schuiftrombone)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784520/IMG_0322_f7gqcb.jpg",
+          "bijschrift": "Annie (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784519/IMG_0331_mo6g8k.jpg",
+          "bijschrift": "Harrie (Trompet)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784520/IMG_0333_zffwns.jpg",
+          "bijschrift": "Hans (Slagwerk)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784512/IMG_0332_dwftcu.jpg",
+          "bijschrift": "Henk (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784511/IMG_0330_zfqlyl.jpg",
+          "bijschrift": "Mark (Sousafoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774784503/IMG_0321_lzixzj.jpg",
+          "bijschrift": "Andra (Saxofoon)"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858111/ruud_yh3jhj.jpg",
+          "bijschrift": "Ruud (Schuiftrombone)"
+        },
+        {
+          "bijschrift": "Arjan (Trompet)",
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857599/arjen_delden_li120r.jpg"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857599/arjan_yxh1q3.jpg",
+          "bijschrift": "Arjan (Schuiftrombone)"
         }
       ]
     },
     {
-      "id": "voorjaar-2025",
-      "titel": "Voorjaarsconcert 2025",
-      "datum": "2025-05-17",
-      "locatie": "Grote zaal van Kulturhus De Bult, Bentelo",
-      "beschrijving": "Groot voorjaarsconcert met premières uit het nieuwe repertoire.",
-      "omslagfoto": "/images/optreden-voorjaar.svg",
-      "fotos": []
+      "id": "zwartgoud",
+      "titel": "ZwartGoud",
+      "datum": "2026-01-01",
+      "locatie": "",
+      "beschrijving": "",
+      "omslagfoto": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858084/PHOTO-2026-03-29-15-45-09_5_u3ecis.jpg",
+      "fotos": [
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858090/PHOTO-2026-03-29-15-45-09_8_r3v65z.jpg",
+          "bijschrift": "Golden girls"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774726966/BK_groep_2_scm5ff.jpg",
+          "bijschrift": "Hollandmarkt"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858067/PHOTO-2025-03-17-10-11-42_bquwwg.jpg",
+          "bijschrift": "Enthousiast"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858078/PHOTO-2026-03-29-15-45-09_3_tfrlry.jpg",
+          "bijschrift": "Rust"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858098/PHOTO-2026-03-29-15-45-10_3_gp9ins.jpg",
+          "bijschrift": "Bier en worst"
+        }
+      ]
     },
     {
-      "id": "zomerfestival-2025",
-      "titel": "Zomerfestival 2025",
-      "datum": "2025-07-05",
-      "locatie": "Buitenpodium Erve 't Oude Erf, Twente",
-      "beschrijving": "Twee dagen muziek, bier en gezelligheid op een prachtige boerenerflocatie in het Twentse landschap.",
-      "omslagfoto": "/images/optreden-zomerfestival.svg",
-      "fotos": []
-    },
-    {
-      "id": "benefiet-2025",
-      "titel": "Benefietconcert 2025",
-      "datum": "2025-09-13",
-      "locatie": "Dorpskerk Goor — voor de Voedselbank",
-      "beschrijving": "Muziek voor een goed doel. Toegang op donatie — elke euro gaat naar de plaatselijke voedselbank.",
-      "omslagfoto": "/images/optreden-benefiet.svg",
-      "fotos": []
-    },
-    {
-      "id": "sinterklaas-2025",
-      "titel": "Sinterklaascorso 2025",
-      "datum": "2025-12-07",
-      "locatie": "Jaarlijkse optocht door de dorpskern Bentelo",
-      "beschrijving": "Jaarlijkse optocht door het centrum van Bentelo. Warme chocolademelk en speculaas gegarandeerd.",
-      "omslagfoto": "/images/optreden-sinterklaas.svg",
-      "fotos": []
-    },
-    {
-      "id": "kerstconcert-2024",
-      "titel": "Kerstconcert 2024",
-      "datum": "2024-12-20",
-      "locatie": "Sfeervolle avond in de Dorpskerk van Bentelo",
-      "beschrijving": "Een sfeervolle kerstavond vol warme muziek in de historische Dorpskerk van Bentelo.",
-      "omslagfoto": "/images/optreden-kerstconcert.svg",
-      "fotos": []
+      "id": "bejaard",
+      "titel": "Gouden Knarren",
+      "datum": "2026-01-01",
+      "locatie": "",
+      "beschrijving": "",
+      "omslagfoto": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858068/PHOTO-2026-03-28-17-24-01_1_wjodxf.jpg",
+      "fotos": [
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858091/PHOTO-2026-03-29-15-45-10_i3h6in.jpg",
+          "bijschrift": "Ware liefde"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857600/Foto_BK_Zutphen_jpuo3k.jpg",
+          "bijschrift": "De Knarren"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858067/PHOTO-2026-03-28-17-24-01_e1pcsg.jpg",
+          "bijschrift": "Deksels"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774857600/PHOTO-2026-03-28-17-24-01_2_ocwjpw.jpg",
+          "bijschrift": "Bloazen"
+        },
+        {
+          "afbeelding": "https://res.cloudinary.com/digvsmzrc/image/upload/v1774858105/PHOTO-2026-03-29-15-45-11_jm2sgf.jpg",
+          "bijschrift": "Zoek plaatje"
+        }
+      ]
     }
   ]
 }
