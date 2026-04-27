@@ -58,6 +58,14 @@
       "tijdstip": "10.30 tot 15.30 uur",
       "locatie": "Haaksbergen",
       "beschrijving": "Opendag zorgboerderij Knippert"
+    },
+    {
+      "hoofd": false,
+      "id": "Verrassings optreden",
+      "titel": "Verrassingsoptreden Lintje AN",
+      "datum": "2026-04-24",
+      "tijdstip": "21.00 tot 22.00 uur",
+      "locatie": "Bentelo"
     }
   ]
 }
