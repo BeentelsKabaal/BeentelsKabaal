@@ -66,6 +66,15 @@
       "datum": "2026-04-24",
       "tijdstip": "21.00 tot 22.00 uur",
       "locatie": "Bentelo"
+    },
+    {
+      "hoofd": false,
+      "id": "Intocht wandel4daagse",
+      "titel": "Intocht wandel4daagse (optie)",
+      "datum": "2026-06-05",
+      "tijdstip": "18.45 tot 20.30 uur",
+      "locatie": "Aadorp",
+      "beschrijving": "Spelen tijdens de intocht wandel4daagse Aadorp"
     }
   ]
 }
