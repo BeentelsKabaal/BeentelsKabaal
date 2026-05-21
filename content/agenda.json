@@ -53,9 +53,9 @@
     {
       "hoofd": false,
       "id": "Opendag  Zorgboederij ",
-      "titel": "Opendag  Erve Knippert (In Aanvraag)",
+      "titel": "Opendag  Erve Knippert",
       "datum": "2026-06-06",
-      "tijdstip": "10.30 tot 15.30 uur",
+      "tijdstip": "10.30 tot 15.00 uur",
       "locatie": "Haaksbergen",
       "beschrijving": "Opendag zorgboerderij Knippert"
     },
@@ -70,7 +70,7 @@
     {
       "hoofd": false,
       "id": "Intocht wandel4daagse",
-      "titel": "Intocht wandel4daagse (optie)",
+      "titel": "Intocht wandel4daagse (geen doorgang)",
       "datum": "2026-06-05",
       "tijdstip": "18.45 tot 20.30 uur",
       "locatie": "Aadorp",
