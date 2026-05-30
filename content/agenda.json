@@ -75,6 +75,14 @@
       "tijdstip": "18.45 tot 20.30 uur",
       "locatie": "Aadorp",
       "beschrijving": "Spelen tijdens de intocht wandel4daagse Aadorp"
+    },
+    {
+      "hoofd": false,
+      "id": "Hollandmarkt (DE)",
+      "titel": "Hollandmarkt (DE) optie",
+      "datum": "2026-06-14",
+      "tijdstip": "10.00 tot 17.00 uur",
+      "locatie": "Bosel Duitsland"
     }
   ]
 }
