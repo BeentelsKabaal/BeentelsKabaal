@@ -83,6 +83,30 @@
       "datum": "2026-06-14",
       "tijdstip": "10.00 tot 17.00 uur",
       "locatie": "Bosel Duitsland"
+    },
+    {
+      "hoofd": false,
+      "id": "Zomerfair Hendrikahoeve",
+      "titel": "Zomerfair Hendrikahoeve",
+      "datum": "2026-06-19",
+      "tijdstip": "18.00 tot 19.00 uur",
+      "locatie": "Haaksbergen"
+    },
+    {
+      "hoofd": false,
+      "id": "Hollandmarkt",
+      "titel": "Hollandmarkt (DE) Hamm",
+      "datum": "2026-10-25",
+      "tijdstip": "11.00 tot 17.00 uur",
+      "locatie": "Hamm (DE)"
+    },
+    {
+      "hoofd": false,
+      "id": "Intocht wandel4daags",
+      "titel": "Intocht wandel4daagse Zutphen (optie)",
+      "datum": "2026-09-12",
+      "tijdstip": "18.00 tot 20.00 uur",
+      "locatie": "Zutphen"
     }
   ]
 }
