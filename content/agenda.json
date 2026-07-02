@@ -61,8 +61,8 @@
     },
     {
       "hoofd": false,
-      "id": "Verrassings optreden",
-      "titel": "Verrassingsoptreden Lintje AN",
+      "id": "Verrassings optreden Annie",
+      "titel": "Verrassingsoptreden Lintje Annie",
       "datum": "2026-04-24",
       "tijdstip": "21.00 tot 22.00 uur",
       "locatie": "Bentelo"
@@ -107,6 +107,14 @@
       "datum": "2026-09-11",
       "tijdstip": "18.00 tot 20.00 uur",
       "locatie": "Zutphen"
+    },
+    {
+      "hoofd": false,
+      "id": "Verrassings optreden Else",
+      "titel": "Laatste werkdag Else",
+      "datum": "2026-07-01",
+      "tijdstip": "8.15 - 9.00 uur",
+      "locatie": "Bentelo"
     }
   ]
 }
