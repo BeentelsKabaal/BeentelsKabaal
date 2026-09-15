@@ -115,6 +115,22 @@
       "datum": "2026-07-01",
       "tijdstip": "8.15 - 9.00 uur",
       "locatie": "Bentelo"
+    },
+    {
+      "hoofd": false,
+      "id": "Muziek Evenement Mixx",
+      "titel": "Muziek Evenement Mixx",
+      "datum": "2027-05-14",
+      "tijdstip": "nnb",
+      "locatie": "Hengevelde"
+    },
+    {
+      "hoofd": false,
+      "id": "Muziek Evenement Mixx",
+      "titel": "Muziek Evenement ",
+      "datum": "2027-05-15",
+      "tijdstip": "nnb",
+      "locatie": "Hengevelde"
     }
   ]
 }
