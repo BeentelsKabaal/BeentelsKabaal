@@ -42,7 +42,7 @@
     },
     {
       "id": "Dweildag",
-      "titel": "De Bos Dweildag (optie)",
+      "titel": "De Bos Dweildag (geen doorgang)",
       "datum": "2026-09-12",
       "tijdstip": "Vanaf 10:00 uur",
       "locatie": "Centrum van Zutphen",
@@ -127,7 +127,7 @@
     {
       "hoofd": false,
       "id": "Muziek Evenement Mixx",
-      "titel": "Muziek Evenement ",
+      "titel": "Muziek Evenement Mixx",
       "datum": "2027-05-15",
       "tijdstip": "nnb",
       "locatie": "Hengevelde"
