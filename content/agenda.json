@@ -131,6 +131,14 @@
       "datum": "2027-05-15",
       "tijdstip": "nnb",
       "locatie": "Hengevelde"
+    },
+    {
+      "hoofd": false,
+      "id": "Verassings optreden",
+      "titel": "Prive Feest R & E",
+      "datum": "2026-10-09",
+      "tijdstip": "21.30 uur",
+      "locatie": "Bentelo"
     }
   ]
 }
