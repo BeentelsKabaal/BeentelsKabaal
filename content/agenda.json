@@ -139,6 +139,15 @@
       "datum": "2026-10-09",
       "tijdstip": "21.30 uur",
       "locatie": "Bentelo"
+    },
+    {
+      "hoofd": false,
+      "id": "Prive feest HS",
+      "titel": "Verrassings optreden",
+      "datum": "2026-11-27",
+      "tijdstip": "22.00 uur",
+      "beschrijving": "Optreden prive feest ",
+      "locatie": "Hengevelde"
     }
   ]
 }
