@@ -148,6 +148,14 @@
       "tijdstip": "22.00 uur",
       "beschrijving": "Optreden prive feest ",
       "locatie": "Hengevelde"
+    },
+    {
+      "hoofd": false,
+      "id": "Intocht St. Nicolaas",
+      "titel": "Intocht St. Nicolaas",
+      "datum": "2026-11-22",
+      "tijdstip": "13.30 - 16.00 uur",
+      "locatie": "Scouting Bentelo"
     }
   ]
 }
