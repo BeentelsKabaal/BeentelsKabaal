@@ -156,6 +156,15 @@
       "datum": "2026-11-22",
       "tijdstip": "13.30 - 16.00 uur",
       "locatie": "Scouting Bentelo"
+    },
+    {
+      "hoofd": false,
+      "id": "St Nicolaas intocht Enschede",
+      "titel": "Intocht St Nicolaas ",
+      "datum": "2026-11-15",
+      "tijdstip": "14.00 tot 16.00 uur",
+      "locatie": "Enschede",
+      "beschrijving": "Vertrek 13.00 uur bij Spoolder"
     }
   ]
 }
